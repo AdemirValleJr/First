@@ -1,0 +1,17 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CadastroClientes
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Agora tu é o Descoladinho =D By: Linhares Cleiton");
+            Console.ReadLine();
+        }
+    }
+}

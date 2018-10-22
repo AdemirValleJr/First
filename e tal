@@ -12,6 +12,7 @@ namespace CadastroClientes
         {
             Console.WriteLine("Agora tu é o Descoladinho =D By: Linhares Cleiton");
             Console.ReadLine();
-        }
+            Console.ReadLine();
+                }
     }
 }
